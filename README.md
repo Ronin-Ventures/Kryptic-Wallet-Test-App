@@ -1,2 +1,16 @@
 # Kryptic-Wallet-Test-App
 An app for testing the Kryptic Wallet Developer API
+
+## Local Development
+
+Install dependencies
+
+```
+npm install
+
+```
+
+Run development Server
+```
+npm run dev
+```
